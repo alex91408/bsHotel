@@ -1,3 +1,3 @@
 # bsHotel
-#DEMO
+# DEMO
 https://alex91408.github.io/bsHotel/
